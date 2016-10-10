@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{F015A441-76F8-444D-9F1D-AEAF45FE40CA}|Default">
+  <MonoDevelop.Ide.ItemProperties.STRHH PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="STRHH/Program.cs">
+    <Files>
+      <File FileName="STRHH/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

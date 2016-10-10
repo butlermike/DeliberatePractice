@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{FE5D96EB-CA93-48F5-8F37-41F275B86630}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="DivSum/Program.cs">
+    <Files>
+      <File FileName="DivSum/Program.cs" Line="9" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DivSum PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

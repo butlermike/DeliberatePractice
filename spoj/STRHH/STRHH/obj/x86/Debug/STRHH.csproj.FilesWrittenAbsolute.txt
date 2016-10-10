@@ -1,0 +1,5 @@
+/Users/butlermike/Develop/GitHub/DeliberatePractice/SphereOnlineJudge_spoj/STRHH/STRHH/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/butlermike/Develop/GitHub/DeliberatePractice/SphereOnlineJudge_spoj/STRHH/STRHH/bin/Debug/STRHH.exe.mdb
+/Users/butlermike/Develop/GitHub/DeliberatePractice/SphereOnlineJudge_spoj/STRHH/STRHH/bin/Debug/STRHH.exe
+/Users/butlermike/Develop/GitHub/DeliberatePractice/SphereOnlineJudge_spoj/STRHH/STRHH/obj/x86/Debug/STRHH.exe
+/Users/butlermike/Develop/GitHub/DeliberatePractice/SphereOnlineJudge_spoj/STRHH/STRHH/obj/x86/Debug/STRHH.exe.mdb
