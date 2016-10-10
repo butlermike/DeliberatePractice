@@ -1,0 +1,13 @@
+﻿<Properties StartupConfiguration="{E3494374-2873-41FA-97F8-63B47D43226A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LifeUniversEverything/Program.cs">
+    <Files>
+      <File FileName="LifeUniversEverything/Program.cs" Line="9" Column="15" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.LifeUniversEverything PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
